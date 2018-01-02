@@ -1,0 +1,72 @@
+.thumbnail img{
+   width:100%;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full p {
+   padding:9px;
+}
+
+#delete-form{
+	display:inline;
+}
+
+.delete-form{
+	display:inline;
+}
+
+#welcome{
+	text-align: center;
+}
+
+.jumbotron{
+	margin-top: 15px;
+	background-image: url(https://images.pexels.com/photos/713646/pexels-photo-713646.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+
+.login{
+	text-align: center;
+	margin-top:40px;
+
+}
+
+.login div{
+	margin-bottom: 10px;
+}
+.loginTitle{
+	color:#0069d9;
+}
+
+.register{
+	text-align: center;
+	margin-top:40px;
+}
+
+.register div{
+	margin-bottom: 10px;
+}
+
+#map{
+	height:300px;
+	width:100%;
+	margin-bottom: 50px;
+}
+
+.info{
+	margin-bottom: 5px;
+}
+
+#description{
+	font-size: 14px;
+}
+
+#comment{
+	font-size: 14px;
+}
+
+.date{
+	font-size: 18px;
+}
